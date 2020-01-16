@@ -1,4 +1,4 @@
-# Batttery-failure-diagnostic-model
+# Battery-failure-diagnostic-model
 - SQL for data acquisition
 - R programming language for data cleaning and dimensionality reduction using PCA, classification machine learning method and data visualization
 
