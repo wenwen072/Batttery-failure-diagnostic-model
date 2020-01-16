@@ -4,7 +4,8 @@
 # 4 parts of code are provided
 
 # 1. SQL Code: Extract data from the BBOXX SMARTSolar database using SQL language (to make queries)
-PostgreSQL and InfluxDB
+# - PostgreSQL
+# - InfluxDB
 
 # 2. R code: Data cleaning and dimensionality reduction using PCA
 
@@ -13,5 +14,5 @@ PostgreSQL and InfluxDB
 # - R code: Gradient Boosting
 # - R code: Support Vector Machine
 
-# 4. R code: Results visualization
+# 4. R code: selected visualization of results
 
