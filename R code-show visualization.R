@@ -5,7 +5,7 @@ plot(cumsum(pca$sdev^2)/sum(pca$sdev^2),
      ylab = 'Cummulative of Variances Captured',
      main = 'Cummulative of Data Variances Captured vs Number of Principal Components')
 
-# Plot reconstruaction performace of PCA
+# Plot reconstruction performace of PCA
 ggplot(soc_recon_one_long[ind,])+
   geom_line(aes(x=date,y=SOC,group=imei),linetype=2)+
   geom_line(data=soc_tidy_1[ind,],
