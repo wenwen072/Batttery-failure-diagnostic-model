@@ -1,8 +1,8 @@
 # Batttery-failure-diagnostic-model
 - SQL for data acquisition
-- R programming language for data cleaning and dimensionality reduction, classification machine learning method and data visualization
+- R programming language for data cleaning and dimensionality reduction using PCA, classification machine learning method and data visualization
 
-# Battery data used in this project is under confidentiality agreement with BBOXX LTD
+# Battery data used in this project is under confidentiality agreement with BBOXX UK, LTD
 # 4 parts of code are provided
 
 1. SQL Code: Extract data from the BBOXX SMARTSolar database using SQL language (to make queries)
