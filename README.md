@@ -8,9 +8,9 @@
 
 # 2. R code: Data cleaning and dimensionality reduction using PCA
 
-# 3. Apply Classification Machine Learning techniques
-# - Random Forest
-# - Gradient Boosting
-# - Support Vector Machine
+# 3. Apply Classification Machine Learning techniques using R programming language
+# - R code: Random Forest
+# - R code: Gradient Boosting
+# - R code: Support Vector Machine
 
 
