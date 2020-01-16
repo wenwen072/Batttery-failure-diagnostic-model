@@ -1,6 +1,6 @@
 # Batttery-failure-diagnostic-model
 - SQL for data acquisition
-- R programming language for data cleaning and dimensionality reduction, classification machine learning method and visualization
+- R programming language for data cleaning and dimensionality reduction, classification machine learning method and data visualization
 
 # Battery data used in this project is under confidentiality agreement with BBOXX LTD
 # 4 parts of code are provided
