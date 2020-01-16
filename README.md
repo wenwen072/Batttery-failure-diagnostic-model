@@ -1,1 +1,1 @@
-# Batttery-failure-diag
+# Batttery-failure-diagnostic-model
