@@ -1,7 +1,6 @@
 # ML2 Gradient Boosting (GB): using xgboost, caret package to train on the previous dataset with PCA
 library(caret)
 library(lattice)
-library(e1071)
 library(xgboost)
 
 set.seed(123)
