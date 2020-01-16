@@ -1,10 +1,10 @@
 # Batttery-failure-diagnostic-model
 
 # Battery data used in this project is under confidentiality agreement with BBOXX LTD
-# 5 parts of code are provided
+# 4 parts of code are provided
 
 # 1. SQL Code: Extract data from the BBOXX SMARTSolar database using SQL language (to make queries)
-# Two databases: PostgreSQL and InfluxDB
+PostgreSQL and InfluxDB
 
 # 2. R code: Data cleaning and dimensionality reduction using PCA
 
@@ -13,4 +13,5 @@
 # - R code: Gradient Boosting
 # - R code: Support Vector Machine
 
+# 4. R code: Results visualization
 
