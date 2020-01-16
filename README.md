@@ -1,4 +1,6 @@
 # Batttery-failure-diagnostic-model
+- SQL for data acquisition
+- R programming language for data cleaning and dimensionality reduction, classification machine learning method and visualization
 
 # Battery data used in this project is under confidentiality agreement with BBOXX LTD
 # 4 parts of code are provided
@@ -7,12 +9,12 @@
 - PostgreSQL
 - InfluxDB
 
-2. R code: Data cleaning and dimensionality reduction using PCA
+2. Data cleaning and dimensionality reduction using PCA
 
-3. Apply Classification Machine Learning techniques using R programming language
+3. Apply Classification Machine Learning techniques
  - R code: Random Forest
  - R code: Gradient Boosting
  - R code: Support Vector Machine
 
-4. R code: selected visualization of results
+4. Selected visualization of results
 
